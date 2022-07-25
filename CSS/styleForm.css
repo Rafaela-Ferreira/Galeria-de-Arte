@@ -1,0 +1,56 @@
+html{
+    font-size: 14px;
+}
+.navbar{
+    background-color:  rgb(34, 96, 133) ; 
+}
+.navbar a{
+    color: white; 
+}
+.d-block{
+    border-radius: 10px;
+}
+
+.row-fluid{
+    width: 100%; height: auto; 
+}
+
+.row-footer{
+    text-align: center; padding-top: 35px; height: 150px; background-color: rgb(34, 96, 133) ; color:white;
+}
+.row-footer img{
+    margin-right: 08%; border-width:0; float: right;
+}
+
+
+.row-fluid{
+    background-image : url('../IMG/exposição\ de\ artes.png'); width: 100%; height: auto;
+}
+.row h2{
+    text-align: center; padding-top: 40px; padding-bottom: 20px; color: black;
+}
+
+h1{
+    color: white;
+}
+
+
+.col-8{
+    background-color:#D1B266; height: auto; border-radius: 5%; margin-top: 10%;
+}
+#nomeArtista-error{
+    display: none; border-radius: 20px; top: 10px;
+}
+
+#nomeObra-error{
+    display: none; border-radius: 20px; top: 10px;
+}
+#descrição-error{
+    display: none; border-radius: 20px; top: 10px;
+}
+#urlImagem-error{
+    display: none; border-radius: 20px; top: 10px;
+}
+#artigo-error{
+    display: none; border-radius: 20px; top: 10px;
+}

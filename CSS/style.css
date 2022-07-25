@@ -1,0 +1,59 @@
+html{
+    font-size: 14px;
+}
+
+.navbar{
+    background-color:  rgb(34, 96, 133) ; 
+}
+.navbar a{
+    color: white; 
+}
+.d-block{
+    border-radius: 10px;
+}
+.row-fluid img{
+    height: auto; border-radius: 20px;
+}
+.row-fluid{
+    width: 100%; height: auto; margin: 0; padding: 0; background-color: whitesmoke;
+}
+
+.row-footer{
+    text-align: center; padding-top: 35px; height: 150px; background-color: rgb(34, 96, 133) ; color:white;
+}
+.row-footer img{
+    margin-right: 08%; border-width:0; float: right;
+}
+.row-fluid h2{
+    text-align: center; color: #1F222B; padding-top: 3%; font-size: 23px;
+}
+.row-fluid h3{
+    text-align: center; color: #1F222B;  padding-bottom: 3%; font-size: 23px; margin-bottom: 0;
+}
+
+.col-5 h3{
+    margin-left: 9%; color: black;
+}
+.col-5 p{
+     color: black; text-align: justify; 
+}
+.col-5 img{
+    height: 300px;
+}
+#col-5p p{
+    padding-left: 30px;
+}
+
+#id_col1 p{
+    width: 95%;
+}
+
+#id_col2 p{
+    width: 95%;
+}
+
+.cadastroObras{
+    background-color: whitesmoke;
+}
+
+
